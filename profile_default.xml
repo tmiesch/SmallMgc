@@ -1,0 +1,119 @@
+<profile>
+   <!-- ETSI_ARGW -->
+   <name>profile_default</name>
+   <!-- 2 (etsi version number) -->  
+   <version>1</version>
+   <!-- e is for etsi -->
+   <callcontrol>e</callcontrol>
+   <packages>
+      <!-- ETSI Mandatory packages -->
+      <!-- Generic -->
+      <g> 
+         <enable>1</enable>
+      </g>
+      <!-- Base Root -->
+      <root>
+         <enable>1</enable>
+      </root>
+      <!--Call Progress Tones Generator -->
+      <cg>
+         <enable>1</enable>
+      </cg>
+      <!-- Overload Control Package -->
+      <ocp>
+        <enable>0</enable>
+      </ocp>
+      <!-- Network -->
+      <nt>
+         <enable>1</enable>
+      </nt>
+      <!-- TDM Circuit -->
+      <tdmc>
+         <enable>1</enable>
+      </tdmc>
+      <!-- RTP Package -->
+      <rtp>
+         <enable>1</enable>
+      </rtp>
+      <!-- Extended DTMF Detection -->
+      <xdd>
+         <enable>1</enable>
+      </xdd>
+
+      <!-- ETSI Optional Packages -->
+      <!-- Basic Services Tones Generator -->
+      <srvtn>
+         <enable>0</enable>
+      </srvtn>
+      <!-- Expanded Call Progress Tones Generator -->
+      <xcg>
+         <enable>0</enable>
+      </xcg>
+      <!-- Enhanced Alerting -->
+      <alert>
+         <enable>0</enable>
+      </alert>
+      <!-- Analog Display Signalling -->
+      <andisp>
+         <enable>0</enable>
+      </andisp>
+      <!-- Generic Announcement -->
+      <an>
+         <enable>0</enable>
+      </an>
+      <!-- Analog Line Supervision -->
+      <al>
+        <enable>0</enable>
+      </al>
+      <!-- Extended Analog Line Supervision -->
+      <xal>
+         <enable>0</enable>
+      </xal>
+      <!-- Automatic Metering -->
+      <amet>
+         <enable>0</enable>
+      </amet>
+      <!-- Intrusion Tones Generation  -->
+      <int>
+         <enable>0</enable>
+      </int>
+      <!-- Business Tones Generation -->
+      <biztn>
+         <enable>1</enable>
+      </biztn>
+      <!-- DiffServ -->
+      <ds>
+         <enable>0</enable>
+      </ds>
+      <!-- Quality Alert Ceasing -->
+      <qac>
+         <enable>0</enable>
+      </qac>
+      <!-- Inactivity Timer -->
+      <it>
+         <enable>1</enable>
+         <timeout>12000</timeout>
+      </it>
+      <!-- Call Type Discrimination -->
+      <ctyp>
+         <enable>0</enable>
+      </ctyp>
+      <!-- Stimulus Analog Line -->
+      <stimal>
+         <enable>0</enable>
+      </stimal>
+      <!-- MGC Information -->
+      <MGCInfo>
+         <enable>0</enable>
+      </MGCInfo>
+      <!--Statistic Conditional Reporting -->
+      <scr>
+         <enable>0</enable>
+      </scr>
+      <!-- ETSI Notification Rate Package -->
+      <etsi_nr>
+         <enable>0</enable>
+      </etsi_nr>
+   </packages>
+</profile>
+

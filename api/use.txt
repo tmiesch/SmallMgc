@@ -1,0 +1,3 @@
+ unix % swig -python -c++ -module smallmgcapi smallmgcapi.i
+ unix % gcc -c smallmgcapi.cpp smallmgcapi_wrap.cxx  -I/usr/include/python2.6 2> compile.log
+ unix % ld -shared smallmgcapi.o smallmgcapi_wrap.o -o _smallmgcapi.so 

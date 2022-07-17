@@ -1,0 +1,343 @@
+<config>
+       <app>
+          <configdatabase>
+              <persistent>1</persistent>
+              <filename>test</filename>
+              <external>0</external>
+              <xmlfile>1</xmlfile>
+          </configdatabase>
+          <calldatabase>
+              <persistent>1</persistent>
+              <filename>calls</filename>
+          </calldatabase>
+       </app>
+       <test>
+          <filename>commands.txt</filename>
+                <message>
+                    <part1>MEGACO/1 [172.31.63.157]:2944 T=53480{C=${A=${M{O{MO=SR,RG=ON,RV=ON},L{v=0&#xD;
+c=IN IP4 $&#xD;
+m=audio $ RTP/AVP $&#xD;
+a=ptime:$&#xD;
+a=rtcp-xr:voip-metrics&#xD;
+m=image $ udptl t38&#xD;
+},R{v=0&#xD;
+o=sip11u14 3611353538 3611353538 IN IP4 172.31.63.157&#xD;
+s=nn&#xD;
+e=phxV2_sip11u14@co11.com&#xD;
+c=IN IP4 172.31.63.157&#xD;
+t=0 0&#xD;
+m=audio 52132 RTP/AVP 18 8 0 110 111&#xD;
+c=IN IP4 172.31.63.157&#xD;
+a=rtpmap:18 G729/8000&#xD;
+a=rtpmap:8 PCMA/8000&#xD;
+a=rtpmap:0 PCMU/8000&#xD;
+a=rtpmap:110 telephone-event/8000&#xD;
+a=rtpmap:111 X-nt-inforeq/8000&#xD;
+m=video 52000 RTP/AVP 34 97&#xD;
+c=IN IP4 172.31.63.157&#xD;
+a=TIAS:10240&#xD;
+a=rtpmap:34 H263/90000&#xD;
+a=fmtp:34 QCIF=15;CIF=15;SQCIF=15;F&#xD;
+a=rtpmap:97 X-NNVC/500&#xD;
+a=fmtp:97 p=03af&#xD;
+a=maxprate:6.00&#xD;
+a=framerate:2.0&#xD;
+}},E=4874{nt/netfail}}}}
+    </part1>
+                    <part2>b</part2>
+                </message>
+		<message>
+                    <part1>c</part1>
+                    <part2>d</part2>
+                </message>
+		<message>
+                    <part1>e</part1>
+                    <part2>f</part2>
+                </message>
+       </test>
+       <mgc>
+   		<name>SmallMGC</name>
+		<ip>
+			<h248>10.1.2.50</h248>
+			<h248port>2944</h248port>
+			<sigtran>0.0.0.0</sigtran>
+			<sigtranport>0</sigtranport>
+		</ip>
+                <retransmission>7</retransmission>
+                <modifybundles>20</modifybundles>
+                <bundlestimeout>100</bundlestimeout>
+                <startupmodifywithtimer>1</startupmodifywithtimer>
+                <digitmap>xxxxx</digitmap>
+                <callcontrol>a</callcontrol>
+                <esa>
+                        <mode>0</mode>
+                        <timeout>60000</timeout>
+                        <primarymgc>
+                             <ip>
+                                <h248>10.1.2.51</h248>
+			        <h248port>2944</h248port>
+			        <sigtran>0.0.0.0</sigtran>
+			        <sigtranport>0</sigtranport>
+                             </ip>
+                        </primarymgc>
+                </esa>
+		<busytoneduration>30000</busytoneduration>
+                <congestiontoneduration>10000</congestiontoneduration>
+                <howlertoneduration>20000</howlertoneduration>
+        </mgc>
+	<gateway>
+		<name>first</name>
+		<ip>
+			<h248>10.1.2.20</h248>
+			<h248port>2944</h248port>
+			<sigtran>0.0.0.0</sigtran>
+			<sigtranport>0</sigtranport>
+		</ip>
+                <profile>profile_default</profile>
+                <callcontrol>a</callcontrol>
+                <itpackage>
+                   <mode>1</mode>
+                   <timeout>12000</timeout>
+                </itpackage>
+        
+		<terminations>
+			<pstn>
+				<subscriber>
+					<id>p/1</id>
+					<number>12340</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/2</id>
+					<number>12341</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/3</id>
+					<number>12342</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/4</id>
+					<number>12343</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/5</id>
+					<number>12344</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/6</id>
+					<number>12345</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/7</id>
+					<number>12346</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/8</id>
+					<number>12347</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/9</id>
+					<number>12348</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/10</id>
+					<number>12349</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/11</id>
+					<number>12350</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/12</id>
+					<number>12351</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/13</id>
+					<number>12352</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/14</id>
+					<number>12353</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/15</id>
+					<number>12354</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/16</id>
+					<number>12355</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/17</id>
+					<number>12356</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/18</id>
+					<number>12357</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/19</id>
+					<number>12358</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/20</id>
+					<number>12359</number>
+                                </subscriber>
+           		</pstn>
+			<isdn>
+                              <subscriber>
+					<iua>ba/1</iua>
+                                        <iuaint>1</iuaint>
+                                        <id>ba/1/b1</id>
+                                        <id1>ba/1/b2</id1>
+					<number>33300</number>
+                                </subscriber>
+			</isdn>
+		</terminations>	
+		
+	</gateway>
+	<gateway>
+		<name>second</name>
+		<ip>
+			<h248>10.1.2.30</h248>
+			<h248port>2944</h248port>
+			<sigtran>0.0.0.0</sigtran>
+			<sigtranport>0</sigtranport>
+		</ip>
+                <profile>profile_default</profile>
+                <callcontrol>a</callcontrol>
+<itpackage>
+            <mode>1</mode>
+            <timeout>12000</timeout>
+        </itpackage>
+        
+		<terminations>
+			<pstn>
+				<subscriber>
+					<id>p/1</id>
+					<number>22340</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/2</id>
+					<number>22341</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/3</id>
+					<number>22342</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/4</id>
+					<number>22343</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/5</id>
+					<number>22344</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/6</id>
+					<number>22345</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/7</id>
+					<number>22346</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/8</id>
+					<number>22347</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/9</id>
+					<number>22348</number>
+                                </subscriber>
+				<subscriber>
+					<id>p/10</id>
+					<number>22349</number>
+                                </subscriber>
+                               			
+			</pstn>
+			<isdn>
+                                <subscriber>
+					<iua>ba/1</iua>
+                                        <iuaint>1</iuaint>
+                                        <id>ba/1/b1</id>
+                                        <id1>ba/1/b2</id1>
+					<number>44400</number>
+                                </subscriber>
+                                <subscriber>
+					<iua>ba/2</iua>
+                                        <iuaint>2</iuaint>
+                                        <id>ba/2/b1</id>
+                                        <id1>ba/2/b2</id1>
+					<number>55500</number>
+                                </subscriber>
+
+			</isdn>
+		</terminations>			
+	</gateway>
+        <gateway>
+		<name>G10-SFU</name>
+		<ip>
+			<h248>127.0.0.1</h248>
+			<h248port>2944</h248port>
+			<sigtran>0.0.0.0</sigtran>
+			<sigtranport>0</sigtranport>
+		</ip>
+                <profile>profile_default</profile>
+                <callcontrol>n</callcontrol>
+                <itpackage>
+                        <mode>1</mode>
+                        <timeout>12000</timeout>
+                </itpackage>
+        
+		<terminations>
+			<pstn>
+				<subscriber>
+					<id>p/1</id>
+					<number>32340</number>
+                                </subscriber>
+			</pstn>
+			<isdn>
+                              <subscriber>
+					<iua>ba/1</iua>
+                                        <iuaint>1</iuaint>
+                                        <id>ba/1/b1</id>
+                                        <id1>ba/1/b2</id1>
+					<number>88800</number>
+                                </subscriber>
+			</isdn>
+		</terminations>	
+		
+	</gateway>
+
+        <gateway>
+		<name>smallmgc.org</name>
+		<ip>
+			<h248>0.0.0.0</h248>
+			<h248port>0</h248port>
+			<sigtran>0.0.0.0</sigtran>
+			<sigtranport>0</sigtranport>
+                        <sip>10.1.2.40</sip>
+                        <sipport>5060</sipport>
+		</ip>
+                <profile>profile_default</profile>
+                <callcontrol>n</callcontrol>
+                <itpackage>
+                        <mode>1</mode>
+                        <timeout>12000</timeout>
+                </itpackage>
+        
+		<terminations>
+			<sip>
+	                  <subscriber>
+			    <id>bill</id>
+			    <number>9111</number>
+                            <password></password>
+                            <algorithm></algorithm>
+                            <profile></profile>
+                          </subscriber>
+			</sip>
+		</terminations>	
+		
+	</gateway>
+
+
+</config>

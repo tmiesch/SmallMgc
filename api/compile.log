@@ -1,0 +1,2168 @@
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_TestReceivedMessage_command_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3106: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3106: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3106: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3106: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3107: error: ‘SmallMGC_Api_Commands’ was not declared in this scope
+smallmgcapi_wrap.cxx:3107: error: expected ‘;’ before ‘arg2’
+smallmgcapi_wrap.cxx:3120: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3120: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3120: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3120: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3120: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:3125: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:3125: error: expected type-specifier before ‘SmallMGC_Api_Commands’
+smallmgcapi_wrap.cxx:3125: error: expected ‘>’ before ‘SmallMGC_Api_Commands’
+smallmgcapi_wrap.cxx:3125: error: expected ‘(’ before ‘SmallMGC_Api_Commands’
+smallmgcapi_wrap.cxx:3125: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_TestReceivedMessage_command_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3136: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3136: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3136: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3136: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3140: error: ‘SmallMGC_Api_Commands’ was not declared in this scope
+smallmgcapi_wrap.cxx:3140: error: expected ‘;’ before ‘result’
+smallmgcapi_wrap.cxx:3147: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3147: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3147: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3147: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3147: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:3148: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_TestReceivedMessage_transactionId_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3158: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3158: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3158: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3158: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3172: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3172: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3172: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3172: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3172: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_TestReceivedMessage_transactionId_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3188: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3188: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3188: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3188: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3199: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3199: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3199: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3199: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3199: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_TestReceivedMessage_contextId_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3210: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3210: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3210: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3210: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3224: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3224: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3224: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3224: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3224: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_TestReceivedMessage_contextId_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3240: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3240: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3240: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3240: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3251: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3251: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3251: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3251: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3251: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_TestReceivedMessage_eventId_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3262: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3262: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3262: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3262: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3276: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3276: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3276: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3276: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3276: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_TestReceivedMessage_eventId_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3292: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3292: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3292: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3292: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3303: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3303: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3303: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3303: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3303: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_TestReceivedMessage_termId_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3314: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3314: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3314: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3314: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3329: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3329: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3329: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3329: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3329: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_TestReceivedMessage_termId_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3353: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3353: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3353: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3353: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3364: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3364: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3364: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3364: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3364: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_TestReceivedMessage_event_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3375: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3375: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3375: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3375: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3390: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3390: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3390: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3390: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3390: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_TestReceivedMessage_event_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3414: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3414: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3414: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3414: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3425: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3425: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3425: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3425: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3425: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_TestReceivedMessage_localSdp_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3436: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3436: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3436: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3436: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3451: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3451: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3451: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3451: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3451: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_TestReceivedMessage_localSdp_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3475: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3475: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3475: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3475: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3486: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3486: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3486: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3486: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3486: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_TestReceivedMessage_remoteSdp_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3497: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3497: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3497: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3497: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3512: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3512: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3512: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3512: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3512: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_TestReceivedMessage_remoteSdp_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3536: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3536: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3536: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3536: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3547: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3547: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3547: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3547: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3547: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_new_SmallMGC_Api_TestReceivedMessage(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3558: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3558: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:3561: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3561: error: expected ‘;’ before ‘new’
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_delete_SmallMGC_Api_TestReceivedMessage(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3571: error: ‘SmallMGC_Api_TestReceivedMessage’ was not declared in this scope
+smallmgcapi_wrap.cxx:3571: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3571: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3571: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3581: error: expected type-specifier before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3581: error: expected ‘>’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3581: error: expected ‘(’ before ‘SmallMGC_Api_TestReceivedMessage’
+smallmgcapi_wrap.cxx:3581: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3581: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:3582: error: type ‘<type error>’ argument given to ‘delete’, expected pointer
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_name_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3599: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:3599: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3599: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3599: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3613: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3613: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3613: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3613: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3613: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_name_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3630: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:3630: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3630: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3630: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3641: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3641: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3641: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3641: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3641: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_h248IpAddress_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3658: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:3658: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3658: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3658: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3672: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3672: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3672: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3672: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3672: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_h248IpAddress_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3689: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:3689: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3689: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3689: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3700: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3700: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3700: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3700: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3700: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_h248IpPort_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3717: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:3717: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3717: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3717: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3731: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3731: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3731: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3731: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3731: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_h248IpPort_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3748: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:3748: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3748: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3748: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3759: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3759: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3759: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3759: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3759: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_h248IpDomainName_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3776: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:3776: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3776: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3776: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3790: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3790: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3790: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3790: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3790: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_h248IpDomainName_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3807: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:3807: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3807: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3807: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3818: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3818: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3818: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3818: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3818: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_sigtranIpAddress_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3835: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:3835: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3835: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3835: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3849: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3849: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3849: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3849: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3849: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_sigtranIpAddress_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3866: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:3866: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3866: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3866: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3877: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3877: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3877: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3877: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3877: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_sigtranIpPort_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3894: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:3894: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3894: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3894: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3908: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3908: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3908: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3908: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3908: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_sigtranIpPort_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3925: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:3925: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3925: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3925: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3936: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3936: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3936: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3936: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3936: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_sigtranIpDomainName_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3953: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:3953: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3953: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3953: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3967: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3967: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3967: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3967: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3967: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_sigtranIpDomainName_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:3984: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:3984: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:3984: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:3984: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:3995: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3995: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3995: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:3995: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:3995: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_sipIpAddress_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4012: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:4012: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4012: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4012: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4026: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4026: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4026: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4026: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4026: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_sipIpAddress_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4043: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:4043: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4043: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4043: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4054: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4054: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4054: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4054: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4054: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_sipIpPort_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4071: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:4071: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4071: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4071: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4085: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4085: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4085: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4085: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4085: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_sipIpPort_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4102: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:4102: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4102: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4102: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4113: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4113: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4113: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4113: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4113: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_sipIpDomainName_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4130: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:4130: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4130: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4130: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4144: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4144: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4144: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4144: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4144: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigIp_m_sipIpDomainName_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4161: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:4161: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4161: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4161: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4172: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4172: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4172: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4172: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4172: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_new_SmallMGC_Api_ConfigIp(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4189: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:4189: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:4192: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4192: error: expected ‘;’ before ‘new’
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_delete_SmallMGC_Api_ConfigIp(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4202: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:4202: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4202: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4202: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4212: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4212: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4212: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:4212: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4212: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:4213: error: type ‘<type error>’ argument given to ‘delete’, expected pointer
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigGeneral_m_retransmissions_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4230: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:4230: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4230: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4230: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4244: error: expected type-specifier before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4244: error: expected ‘>’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4244: error: expected ‘(’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4244: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4244: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigGeneral_m_retransmissions_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4260: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:4260: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4260: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4260: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4271: error: expected type-specifier before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4271: error: expected ‘>’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4271: error: expected ‘(’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4271: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4271: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigGeneral_m_modifybundles_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4282: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:4282: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4282: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4282: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4296: error: expected type-specifier before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4296: error: expected ‘>’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4296: error: expected ‘(’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4296: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4296: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigGeneral_m_modifybundles_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4312: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:4312: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4312: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4312: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4323: error: expected type-specifier before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4323: error: expected ‘>’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4323: error: expected ‘(’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4323: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4323: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigGeneral_m_bundlestimeout_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4334: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:4334: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4334: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4334: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4348: error: expected type-specifier before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4348: error: expected ‘>’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4348: error: expected ‘(’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4348: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4348: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigGeneral_m_bundlestimeout_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4364: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:4364: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4364: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4364: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4375: error: expected type-specifier before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4375: error: expected ‘>’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4375: error: expected ‘(’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4375: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4375: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigGeneral_m_busyToneDuration_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4386: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:4386: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4386: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4386: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4400: error: expected type-specifier before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4400: error: expected ‘>’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4400: error: expected ‘(’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4400: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4400: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigGeneral_m_busyToneDuration_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4416: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:4416: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4416: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4416: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4427: error: expected type-specifier before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4427: error: expected ‘>’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4427: error: expected ‘(’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4427: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4427: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigGeneral_m_congestionToneDuration_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4438: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:4438: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4438: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4438: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4452: error: expected type-specifier before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4452: error: expected ‘>’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4452: error: expected ‘(’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4452: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4452: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigGeneral_m_congestionToneDuration_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4468: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:4468: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4468: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4468: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4479: error: expected type-specifier before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4479: error: expected ‘>’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4479: error: expected ‘(’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4479: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4479: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigGeneral_m_howlerToneDuration_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4490: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:4490: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4490: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4490: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4504: error: expected type-specifier before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4504: error: expected ‘>’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4504: error: expected ‘(’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4504: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4504: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigGeneral_m_howlerToneDuration_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4520: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:4520: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4520: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4520: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4531: error: expected type-specifier before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4531: error: expected ‘>’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4531: error: expected ‘(’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4531: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4531: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_new_SmallMGC_Api_ConfigGeneral(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4542: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:4542: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:4545: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4545: error: expected ‘;’ before ‘new’
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_delete_SmallMGC_Api_ConfigGeneral(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4555: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:4555: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4555: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4555: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4565: error: expected type-specifier before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4565: error: expected ‘>’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4565: error: expected ‘(’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:4565: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4565: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:4566: error: type ‘<type error>’ argument given to ‘delete’, expected pointer
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigDigitmap_m_digitmap_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4583: error: ‘SmallMGC_Api_ConfigDigitmap’ was not declared in this scope
+smallmgcapi_wrap.cxx:4583: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4583: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4583: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4597: error: expected type-specifier before ‘SmallMGC_Api_ConfigDigitmap’
+smallmgcapi_wrap.cxx:4597: error: expected ‘>’ before ‘SmallMGC_Api_ConfigDigitmap’
+smallmgcapi_wrap.cxx:4597: error: expected ‘(’ before ‘SmallMGC_Api_ConfigDigitmap’
+smallmgcapi_wrap.cxx:4597: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4597: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigDigitmap_m_digitmap_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4614: error: ‘SmallMGC_Api_ConfigDigitmap’ was not declared in this scope
+smallmgcapi_wrap.cxx:4614: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4614: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4614: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4625: error: expected type-specifier before ‘SmallMGC_Api_ConfigDigitmap’
+smallmgcapi_wrap.cxx:4625: error: expected ‘>’ before ‘SmallMGC_Api_ConfigDigitmap’
+smallmgcapi_wrap.cxx:4625: error: expected ‘(’ before ‘SmallMGC_Api_ConfigDigitmap’
+smallmgcapi_wrap.cxx:4625: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4625: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_new_SmallMGC_Api_ConfigDigitmap(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4642: error: ‘SmallMGC_Api_ConfigDigitmap’ was not declared in this scope
+smallmgcapi_wrap.cxx:4642: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:4645: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4645: error: expected ‘;’ before ‘new’
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_delete_SmallMGC_Api_ConfigDigitmap(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4655: error: ‘SmallMGC_Api_ConfigDigitmap’ was not declared in this scope
+smallmgcapi_wrap.cxx:4655: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4655: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4655: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4665: error: expected type-specifier before ‘SmallMGC_Api_ConfigDigitmap’
+smallmgcapi_wrap.cxx:4665: error: expected ‘>’ before ‘SmallMGC_Api_ConfigDigitmap’
+smallmgcapi_wrap.cxx:4665: error: expected ‘(’ before ‘SmallMGC_Api_ConfigDigitmap’
+smallmgcapi_wrap.cxx:4665: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4665: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:4666: error: type ‘<type error>’ argument given to ‘delete’, expected pointer
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigSA_m_sa_enabled_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4683: error: ‘SmallMGC_Api_ConfigSA’ was not declared in this scope
+smallmgcapi_wrap.cxx:4683: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4683: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4683: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4697: error: expected type-specifier before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4697: error: expected ‘>’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4697: error: expected ‘(’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4697: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4697: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigSA_m_sa_enabled_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4713: error: ‘SmallMGC_Api_ConfigSA’ was not declared in this scope
+smallmgcapi_wrap.cxx:4713: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4713: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4713: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4724: error: expected type-specifier before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4724: error: expected ‘>’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4724: error: expected ‘(’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4724: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4724: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigSA_m_sa_timeout_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4735: error: ‘SmallMGC_Api_ConfigSA’ was not declared in this scope
+smallmgcapi_wrap.cxx:4735: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4735: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4735: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4749: error: expected type-specifier before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4749: error: expected ‘>’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4749: error: expected ‘(’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4749: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4749: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigSA_m_sa_timeout_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4765: error: ‘SmallMGC_Api_ConfigSA’ was not declared in this scope
+smallmgcapi_wrap.cxx:4765: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4765: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4765: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4776: error: expected type-specifier before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4776: error: expected ‘>’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4776: error: expected ‘(’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4776: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4776: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigSA_m_sa_mainMgcIpAddress_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4787: error: ‘SmallMGC_Api_ConfigSA’ was not declared in this scope
+smallmgcapi_wrap.cxx:4787: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4787: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4787: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4801: error: expected type-specifier before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4801: error: expected ‘>’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4801: error: expected ‘(’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4801: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4801: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigSA_m_sa_mainMgcIpAddress_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4818: error: ‘SmallMGC_Api_ConfigSA’ was not declared in this scope
+smallmgcapi_wrap.cxx:4818: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4818: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4818: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4829: error: expected type-specifier before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4829: error: expected ‘>’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4829: error: expected ‘(’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4829: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4829: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigSA_m_sa_mainMgcIpPort_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4846: error: ‘SmallMGC_Api_ConfigSA’ was not declared in this scope
+smallmgcapi_wrap.cxx:4846: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4846: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4846: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4860: error: expected type-specifier before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4860: error: expected ‘>’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4860: error: expected ‘(’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4860: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4860: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigSA_m_sa_mainMgcIpPort_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4877: error: ‘SmallMGC_Api_ConfigSA’ was not declared in this scope
+smallmgcapi_wrap.cxx:4877: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4877: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4877: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4888: error: expected type-specifier before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4888: error: expected ‘>’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4888: error: expected ‘(’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4888: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4888: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigSA_m_sa_mainMgcIpDomain_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4905: error: ‘SmallMGC_Api_ConfigSA’ was not declared in this scope
+smallmgcapi_wrap.cxx:4905: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4905: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4905: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4919: error: expected type-specifier before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4919: error: expected ‘>’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4919: error: expected ‘(’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4919: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4919: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_ConfigSA_m_sa_mainMgcIpDomain_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4936: error: ‘SmallMGC_Api_ConfigSA’ was not declared in this scope
+smallmgcapi_wrap.cxx:4936: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4936: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4936: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4947: error: expected type-specifier before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4947: error: expected ‘>’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4947: error: expected ‘(’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4947: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4947: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_new_SmallMGC_Api_ConfigSA(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4964: error: ‘SmallMGC_Api_ConfigSA’ was not declared in this scope
+smallmgcapi_wrap.cxx:4964: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:4967: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4967: error: expected ‘;’ before ‘new’
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_delete_SmallMGC_Api_ConfigSA(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:4977: error: ‘SmallMGC_Api_ConfigSA’ was not declared in this scope
+smallmgcapi_wrap.cxx:4977: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:4977: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:4977: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:4987: error: expected type-specifier before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4987: error: expected ‘>’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4987: error: expected ‘(’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:4987: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:4987: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:4988: error: type ‘<type error>’ argument given to ‘delete’, expected pointer
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Config_m_configIp_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5005: error: ‘SmallMGC_Api_Config’ was not declared in this scope
+smallmgcapi_wrap.cxx:5005: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5005: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5005: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5006: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:5006: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:5006: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5006: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5019: error: expected type-specifier before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5019: error: expected ‘>’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5019: error: expected ‘(’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5019: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5019: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5024: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:5024: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:5024: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:5024: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5024: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Config_m_configIp_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5035: error: ‘SmallMGC_Api_Config’ was not declared in this scope
+smallmgcapi_wrap.cxx:5035: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5035: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5035: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5039: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:5039: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:5046: error: expected type-specifier before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5046: error: expected ‘>’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5046: error: expected ‘(’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5046: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5046: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5047: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Config_m_configGeneral_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5057: error: ‘SmallMGC_Api_Config’ was not declared in this scope
+smallmgcapi_wrap.cxx:5057: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5057: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5057: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5058: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:5058: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:5058: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5058: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5071: error: expected type-specifier before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5071: error: expected ‘>’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5071: error: expected ‘(’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5071: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5071: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5076: error: expected type-specifier before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:5076: error: expected ‘>’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:5076: error: expected ‘(’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:5076: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5076: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Config_m_configGeneral_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5087: error: ‘SmallMGC_Api_Config’ was not declared in this scope
+smallmgcapi_wrap.cxx:5087: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5087: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5087: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5091: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:5091: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:5098: error: expected type-specifier before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5098: error: expected ‘>’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5098: error: expected ‘(’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5098: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5098: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5099: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Config_m_configDigitmap_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5109: error: ‘SmallMGC_Api_Config’ was not declared in this scope
+smallmgcapi_wrap.cxx:5109: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5109: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5109: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5110: error: ‘SmallMGC_Api_ConfigDigitmap’ was not declared in this scope
+smallmgcapi_wrap.cxx:5110: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:5110: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5110: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5123: error: expected type-specifier before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5123: error: expected ‘>’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5123: error: expected ‘(’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5123: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5123: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5128: error: expected type-specifier before ‘SmallMGC_Api_ConfigDigitmap’
+smallmgcapi_wrap.cxx:5128: error: expected ‘>’ before ‘SmallMGC_Api_ConfigDigitmap’
+smallmgcapi_wrap.cxx:5128: error: expected ‘(’ before ‘SmallMGC_Api_ConfigDigitmap’
+smallmgcapi_wrap.cxx:5128: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5128: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Config_m_configDigitmap_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5139: error: ‘SmallMGC_Api_Config’ was not declared in this scope
+smallmgcapi_wrap.cxx:5139: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5139: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5139: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5143: error: ‘SmallMGC_Api_ConfigDigitmap’ was not declared in this scope
+smallmgcapi_wrap.cxx:5143: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:5150: error: expected type-specifier before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5150: error: expected ‘>’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5150: error: expected ‘(’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5150: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5150: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5151: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Config_m_configSA_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5161: error: ‘SmallMGC_Api_Config’ was not declared in this scope
+smallmgcapi_wrap.cxx:5161: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5161: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5161: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5162: error: ‘SmallMGC_Api_ConfigSA’ was not declared in this scope
+smallmgcapi_wrap.cxx:5162: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:5162: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5162: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5175: error: expected type-specifier before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5175: error: expected ‘>’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5175: error: expected ‘(’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5175: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5175: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5180: error: expected type-specifier before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:5180: error: expected ‘>’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:5180: error: expected ‘(’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:5180: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5180: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Config_m_configSA_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5191: error: ‘SmallMGC_Api_Config’ was not declared in this scope
+smallmgcapi_wrap.cxx:5191: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5191: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5191: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5195: error: ‘SmallMGC_Api_ConfigSA’ was not declared in this scope
+smallmgcapi_wrap.cxx:5195: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:5202: error: expected type-specifier before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5202: error: expected ‘>’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5202: error: expected ‘(’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5202: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5202: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5203: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_new_SmallMGC_Api_Config(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5213: error: ‘SmallMGC_Api_Config’ was not declared in this scope
+smallmgcapi_wrap.cxx:5213: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:5216: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5216: error: expected ‘;’ before ‘new’
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_delete_SmallMGC_Api_Config(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5226: error: ‘SmallMGC_Api_Config’ was not declared in this scope
+smallmgcapi_wrap.cxx:5226: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5226: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5226: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5236: error: expected type-specifier before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5236: error: expected ‘>’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5236: error: expected ‘(’ before ‘SmallMGC_Api_Config’
+smallmgcapi_wrap.cxx:5236: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5236: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5237: error: type ‘<type error>’ argument given to ‘delete’, expected pointer
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_GatewayGeneral_m_gatewayCallControlMode_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5254: error: ‘SmallMGC_Api_GatewayGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:5254: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5254: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5254: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5268: error: expected type-specifier before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5268: error: expected ‘>’ before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5268: error: expected ‘(’ before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5268: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5268: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_GatewayGeneral_m_gatewayCallControlMode_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5284: error: ‘SmallMGC_Api_GatewayGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:5284: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5284: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5284: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5295: error: expected type-specifier before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5295: error: expected ‘>’ before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5295: error: expected ‘(’ before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5295: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5295: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_GatewayGeneral_m_gatewayItPackageTimeout_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5306: error: ‘SmallMGC_Api_GatewayGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:5306: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5306: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5306: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5320: error: expected type-specifier before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5320: error: expected ‘>’ before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5320: error: expected ‘(’ before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5320: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5320: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_GatewayGeneral_m_gatewayItPackageTimeout_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5336: error: ‘SmallMGC_Api_GatewayGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:5336: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5336: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5336: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5347: error: expected type-specifier before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5347: error: expected ‘>’ before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5347: error: expected ‘(’ before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5347: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5347: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_GatewayGeneral_m_gatewayItPackageEnabled_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5358: error: ‘SmallMGC_Api_GatewayGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:5358: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5358: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5358: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5372: error: expected type-specifier before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5372: error: expected ‘>’ before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5372: error: expected ‘(’ before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5372: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5372: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_GatewayGeneral_m_gatewayItPackageEnabled_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5388: error: ‘SmallMGC_Api_GatewayGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:5388: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5388: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5388: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5399: error: expected type-specifier before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5399: error: expected ‘>’ before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5399: error: expected ‘(’ before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5399: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5399: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_new_SmallMGC_Api_GatewayGeneral(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5410: error: ‘SmallMGC_Api_GatewayGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:5410: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:5413: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5413: error: expected ‘;’ before ‘new’
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_delete_SmallMGC_Api_GatewayGeneral(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5423: error: ‘SmallMGC_Api_GatewayGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:5423: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5423: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5423: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5433: error: expected type-specifier before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5433: error: expected ‘>’ before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5433: error: expected ‘(’ before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5433: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5433: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5434: error: type ‘<type error>’ argument given to ‘delete’, expected pointer
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Gateway_m_gatewayIp_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5451: error: ‘SmallMGC_Api_Gateway’ was not declared in this scope
+smallmgcapi_wrap.cxx:5451: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5451: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5451: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5452: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:5452: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:5452: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5452: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5465: error: expected type-specifier before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:5465: error: expected ‘>’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:5465: error: expected ‘(’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:5465: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5465: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5470: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:5470: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:5470: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:5470: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5470: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Gateway_m_gatewayIp_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5481: error: ‘SmallMGC_Api_Gateway’ was not declared in this scope
+smallmgcapi_wrap.cxx:5481: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5481: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5481: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5485: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:5485: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:5492: error: expected type-specifier before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:5492: error: expected ‘>’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:5492: error: expected ‘(’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:5492: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5492: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5493: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Gateway_m_gatewayGeneral_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5503: error: ‘SmallMGC_Api_Gateway’ was not declared in this scope
+smallmgcapi_wrap.cxx:5503: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5503: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5503: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5504: error: ‘SmallMGC_Api_GatewayGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:5504: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:5504: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5504: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5517: error: expected type-specifier before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:5517: error: expected ‘>’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:5517: error: expected ‘(’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:5517: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5517: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5522: error: expected type-specifier before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5522: error: expected ‘>’ before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5522: error: expected ‘(’ before ‘SmallMGC_Api_GatewayGeneral’
+smallmgcapi_wrap.cxx:5522: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5522: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Gateway_m_gatewayGeneral_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5533: error: ‘SmallMGC_Api_Gateway’ was not declared in this scope
+smallmgcapi_wrap.cxx:5533: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5533: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5533: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5537: error: ‘SmallMGC_Api_GatewayGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:5537: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:5544: error: expected type-specifier before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:5544: error: expected ‘>’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:5544: error: expected ‘(’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:5544: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5544: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5545: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_new_SmallMGC_Api_Gateway(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5555: error: ‘SmallMGC_Api_Gateway’ was not declared in this scope
+smallmgcapi_wrap.cxx:5555: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:5558: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5558: error: expected ‘;’ before ‘new’
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_delete_SmallMGC_Api_Gateway(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5568: error: ‘SmallMGC_Api_Gateway’ was not declared in this scope
+smallmgcapi_wrap.cxx:5568: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5568: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5568: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5578: error: expected type-specifier before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:5578: error: expected ‘>’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:5578: error: expected ‘(’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:5578: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5578: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5579: error: type ‘<type error>’ argument given to ‘delete’, expected pointer
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_GatewayStatus_m_gatewayIpAddress_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5596: error: ‘SmallMGC_Api_GatewayStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:5596: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5596: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5596: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5610: error: expected type-specifier before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5610: error: expected ‘>’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5610: error: expected ‘(’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5610: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5610: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_GatewayStatus_m_gatewayIpAddress_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5627: error: ‘SmallMGC_Api_GatewayStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:5627: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5627: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5627: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5638: error: expected type-specifier before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5638: error: expected ‘>’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5638: error: expected ‘(’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5638: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5638: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_GatewayStatus_m_h248State_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5655: error: ‘SmallMGC_Api_GatewayStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:5655: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5655: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5655: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5656: error: ‘SmallMGC_Api_GatewayH248State’ was not declared in this scope
+smallmgcapi_wrap.cxx:5656: error: expected ‘;’ before ‘arg2’
+smallmgcapi_wrap.cxx:5669: error: expected type-specifier before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5669: error: expected ‘>’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5669: error: expected ‘(’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5669: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5669: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5674: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:5674: error: expected type-specifier before ‘SmallMGC_Api_GatewayH248State’
+smallmgcapi_wrap.cxx:5674: error: expected ‘>’ before ‘SmallMGC_Api_GatewayH248State’
+smallmgcapi_wrap.cxx:5674: error: expected ‘(’ before ‘SmallMGC_Api_GatewayH248State’
+smallmgcapi_wrap.cxx:5674: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_GatewayStatus_m_h248State_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5685: error: ‘SmallMGC_Api_GatewayStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:5685: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5685: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5685: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5689: error: ‘SmallMGC_Api_GatewayH248State’ was not declared in this scope
+smallmgcapi_wrap.cxx:5689: error: expected ‘;’ before ‘result’
+smallmgcapi_wrap.cxx:5696: error: expected type-specifier before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5696: error: expected ‘>’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5696: error: expected ‘(’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5696: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5696: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5697: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_GatewayStatus_m_iuaState_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5707: error: ‘SmallMGC_Api_GatewayStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:5707: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5707: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5707: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5708: error: ‘SmallMGC_Api_GatewayIUAState’ was not declared in this scope
+smallmgcapi_wrap.cxx:5708: error: expected ‘;’ before ‘arg2’
+smallmgcapi_wrap.cxx:5721: error: expected type-specifier before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5721: error: expected ‘>’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5721: error: expected ‘(’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5721: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5721: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5726: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:5726: error: expected type-specifier before ‘SmallMGC_Api_GatewayIUAState’
+smallmgcapi_wrap.cxx:5726: error: expected ‘>’ before ‘SmallMGC_Api_GatewayIUAState’
+smallmgcapi_wrap.cxx:5726: error: expected ‘(’ before ‘SmallMGC_Api_GatewayIUAState’
+smallmgcapi_wrap.cxx:5726: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_GatewayStatus_m_iuaState_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5737: error: ‘SmallMGC_Api_GatewayStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:5737: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5737: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5737: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5741: error: ‘SmallMGC_Api_GatewayIUAState’ was not declared in this scope
+smallmgcapi_wrap.cxx:5741: error: expected ‘;’ before ‘result’
+smallmgcapi_wrap.cxx:5748: error: expected type-specifier before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5748: error: expected ‘>’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5748: error: expected ‘(’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5748: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5748: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5749: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_GatewayStatus_m_callsTotal_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5759: error: ‘SmallMGC_Api_GatewayStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:5759: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5759: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5759: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5773: error: expected type-specifier before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5773: error: expected ‘>’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5773: error: expected ‘(’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5773: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5773: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_GatewayStatus_m_callsTotal_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5789: error: ‘SmallMGC_Api_GatewayStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:5789: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5789: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5789: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5800: error: expected type-specifier before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5800: error: expected ‘>’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5800: error: expected ‘(’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5800: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5800: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_GatewayStatus_m_callOngoing_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5811: error: ‘SmallMGC_Api_GatewayStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:5811: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5811: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5811: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5825: error: expected type-specifier before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5825: error: expected ‘>’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5825: error: expected ‘(’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5825: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5825: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_GatewayStatus_m_callOngoing_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5841: error: ‘SmallMGC_Api_GatewayStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:5841: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5841: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5841: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5852: error: expected type-specifier before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5852: error: expected ‘>’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5852: error: expected ‘(’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5852: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5852: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_new_SmallMGC_Api_GatewayStatus(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5863: error: ‘SmallMGC_Api_GatewayStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:5863: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:5866: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5866: error: expected ‘;’ before ‘new’
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_delete_SmallMGC_Api_GatewayStatus(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5876: error: ‘SmallMGC_Api_GatewayStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:5876: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5876: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5876: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5886: error: expected type-specifier before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5886: error: expected ‘>’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5886: error: expected ‘(’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:5886: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5886: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:5887: error: type ‘<type error>’ argument given to ‘delete’, expected pointer
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Status_m_callsTotal_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5904: error: ‘SmallMGC_Api_Status’ was not declared in this scope
+smallmgcapi_wrap.cxx:5904: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5904: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5904: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5918: error: expected type-specifier before ‘SmallMGC_Api_Status’
+smallmgcapi_wrap.cxx:5918: error: expected ‘>’ before ‘SmallMGC_Api_Status’
+smallmgcapi_wrap.cxx:5918: error: expected ‘(’ before ‘SmallMGC_Api_Status’
+smallmgcapi_wrap.cxx:5918: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5918: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Status_m_callsTotal_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5934: error: ‘SmallMGC_Api_Status’ was not declared in this scope
+smallmgcapi_wrap.cxx:5934: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5934: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5934: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5945: error: expected type-specifier before ‘SmallMGC_Api_Status’
+smallmgcapi_wrap.cxx:5945: error: expected ‘>’ before ‘SmallMGC_Api_Status’
+smallmgcapi_wrap.cxx:5945: error: expected ‘(’ before ‘SmallMGC_Api_Status’
+smallmgcapi_wrap.cxx:5945: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5945: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Status_m_callOngoing_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5956: error: ‘SmallMGC_Api_Status’ was not declared in this scope
+smallmgcapi_wrap.cxx:5956: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5956: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5956: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5970: error: expected type-specifier before ‘SmallMGC_Api_Status’
+smallmgcapi_wrap.cxx:5970: error: expected ‘>’ before ‘SmallMGC_Api_Status’
+smallmgcapi_wrap.cxx:5970: error: expected ‘(’ before ‘SmallMGC_Api_Status’
+smallmgcapi_wrap.cxx:5970: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5970: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Status_m_callOngoing_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:5986: error: ‘SmallMGC_Api_Status’ was not declared in this scope
+smallmgcapi_wrap.cxx:5986: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:5986: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:5986: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:5997: error: expected type-specifier before ‘SmallMGC_Api_Status’
+smallmgcapi_wrap.cxx:5997: error: expected ‘>’ before ‘SmallMGC_Api_Status’
+smallmgcapi_wrap.cxx:5997: error: expected ‘(’ before ‘SmallMGC_Api_Status’
+smallmgcapi_wrap.cxx:5997: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:5997: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_new_SmallMGC_Api_Status(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6008: error: ‘SmallMGC_Api_Status’ was not declared in this scope
+smallmgcapi_wrap.cxx:6008: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:6011: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6011: error: expected ‘;’ before ‘new’
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_delete_SmallMGC_Api_Status(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6021: error: ‘SmallMGC_Api_Status’ was not declared in this scope
+smallmgcapi_wrap.cxx:6021: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6021: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6021: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6031: error: expected type-specifier before ‘SmallMGC_Api_Status’
+smallmgcapi_wrap.cxx:6031: error: expected ‘>’ before ‘SmallMGC_Api_Status’
+smallmgcapi_wrap.cxx:6031: error: expected ‘(’ before ‘SmallMGC_Api_Status’
+smallmgcapi_wrap.cxx:6031: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6031: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:6032: error: type ‘<type error>’ argument given to ‘delete’, expected pointer
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_gatewayIpAddress_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6049: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6049: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6049: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6049: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6063: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6063: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6063: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6063: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6063: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_gatewayIpAddress_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6080: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6080: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6080: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6080: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6091: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6091: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6091: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6091: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6091: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberName_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6108: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6108: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6108: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6108: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6122: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6122: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6122: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6122: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6122: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberName_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6139: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6139: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6139: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6139: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6150: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6150: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6150: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6150: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6150: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberType_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6167: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6167: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6167: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6167: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6168: error: ‘SmallMGC_Api_SubscriberTypes’ was not declared in this scope
+smallmgcapi_wrap.cxx:6168: error: expected ‘;’ before ‘arg2’
+smallmgcapi_wrap.cxx:6181: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6181: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6181: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6181: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6181: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:6186: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:6186: error: expected type-specifier before ‘SmallMGC_Api_SubscriberTypes’
+smallmgcapi_wrap.cxx:6186: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberTypes’
+smallmgcapi_wrap.cxx:6186: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberTypes’
+smallmgcapi_wrap.cxx:6186: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberType_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6197: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6197: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6197: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6197: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6201: error: ‘SmallMGC_Api_SubscriberTypes’ was not declared in this scope
+smallmgcapi_wrap.cxx:6201: error: expected ‘;’ before ‘result’
+smallmgcapi_wrap.cxx:6208: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6208: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6208: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6208: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6208: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:6209: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberTermination_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6219: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6219: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6219: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6219: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6233: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6233: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6233: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6233: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6233: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberTermination_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6263: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6263: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6263: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6263: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6274: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6274: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6274: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6274: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6274: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberNumber_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6285: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6285: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6285: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6285: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6299: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6299: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6299: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6299: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6299: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberNumber_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6316: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6316: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6316: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6316: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6327: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6327: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6327: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6327: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6327: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberNumberRangeStart_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6344: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6344: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6344: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6344: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6358: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6358: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6358: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6358: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6358: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberNumberRangeStart_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6375: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6375: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6375: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6375: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6386: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6386: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6386: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6386: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6386: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberNumberRangeEnd_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6403: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6403: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6403: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6403: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6417: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6417: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6417: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6417: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6417: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberNumberRangeEnd_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6434: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6434: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6434: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6434: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6445: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6445: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6445: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6445: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6445: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberDomainName_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6462: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6462: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6462: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6462: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6476: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6476: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6476: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6476: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6476: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberDomainName_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6493: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6493: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6493: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6493: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6504: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6504: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6504: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6504: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6504: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberIuaId_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6521: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6521: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6521: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6521: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6535: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6535: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6535: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6535: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6535: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberIuaId_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6552: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6552: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6552: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6552: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6563: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6563: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6563: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6563: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6563: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberIuaInt_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6580: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6580: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6580: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6580: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6594: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6594: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6594: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6594: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6594: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_Subscriber_m_subscriberIuaInt_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6610: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6610: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6610: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6610: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6621: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6621: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6621: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6621: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6621: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_new_SmallMGC_Api_Subscriber(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6632: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6632: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:6635: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6635: error: expected ‘;’ before ‘new’
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_delete_SmallMGC_Api_Subscriber(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6645: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:6645: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6645: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6645: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6655: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6655: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6655: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:6655: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6655: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:6656: error: type ‘<type error>’ argument given to ‘delete’, expected pointer
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_SubscriberStatus_m_gatewayIpAddress_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6673: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:6673: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6673: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6673: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6687: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6687: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6687: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6687: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6687: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_SubscriberStatus_m_gatewayIpAddress_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6704: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:6704: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6704: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6704: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6715: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6715: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6715: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6715: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6715: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_SubscriberStatus_m_subscriberTermination_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6732: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:6732: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6732: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6732: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6746: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6746: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6746: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6746: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6746: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_SubscriberStatus_m_subscriberTermination_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6776: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:6776: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6776: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6776: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6787: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6787: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6787: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6787: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6787: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_SubscriberStatus_m_subscriberState_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6798: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:6798: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6798: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6798: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6799: error: ‘SmallMGC_Api_SubscriberH248State’ was not declared in this scope
+smallmgcapi_wrap.cxx:6799: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:6812: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6812: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6812: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6812: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6812: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:6817: error: expected type-specifier before ‘SmallMGC_Api_SubscriberH248State’
+smallmgcapi_wrap.cxx:6817: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberH248State’
+smallmgcapi_wrap.cxx:6817: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberH248State’
+smallmgcapi_wrap.cxx:6817: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6817: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_SubscriberStatus_m_subscriberState_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6835: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:6835: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6835: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6835: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6839: error: ‘SmallMGC_Api_SubscriberH248State’ was not declared in this scope
+smallmgcapi_wrap.cxx:6839: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:6846: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6846: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6846: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6846: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6846: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:6847: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6847: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_SubscriberStatus_m_subscriberDomainName_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6857: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:6857: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6857: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6857: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6871: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6871: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6871: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6871: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6871: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_SubscriberStatus_m_subscriberDomainName_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6888: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:6888: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6888: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6888: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6899: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6899: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6899: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6899: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6899: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_SubscriberStatus_m_subscriberIuaId_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6916: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:6916: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6916: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6916: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6930: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6930: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6930: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6930: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6930: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_SubscriberStatus_m_subscriberIuaId_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6947: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:6947: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6947: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6947: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6958: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6958: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6958: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6958: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6958: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_SubscriberStatus_m_subscriberIuaInt_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:6975: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:6975: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:6975: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:6975: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:6989: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6989: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6989: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:6989: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:6989: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_SubscriberStatus_m_subscriberIuaInt_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7005: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:7005: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7005: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7005: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7016: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7016: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7016: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7016: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7016: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_SubscriberStatus_m_callsTotal_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7027: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:7027: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7027: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7027: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7041: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7041: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7041: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7041: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7041: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_SubscriberStatus_m_callsTotal_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7057: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:7057: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7057: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7057: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7068: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7068: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7068: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7068: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7068: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_SubscriberStatus_m_callOngoing_set(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7079: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:7079: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7079: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7079: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7093: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7093: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7093: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7093: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7093: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_SubscriberStatus_m_callOngoing_get(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7109: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:7109: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7109: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7109: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7120: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7120: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7120: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7120: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7120: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_new_SmallMGC_Api_SubscriberStatus(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7131: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:7131: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:7134: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7134: error: expected ‘;’ before ‘new’
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_delete_SmallMGC_Api_SubscriberStatus(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7144: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:7144: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7144: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7144: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7154: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7154: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7154: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7154: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7154: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7155: error: type ‘<type error>’ argument given to ‘delete’, expected pointer
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_new_SmallMGC_Api(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7172: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7172: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:7175: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7175: error: expected ‘;’ before ‘new’
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_addGateway(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7185: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7185: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7185: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7185: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7186: error: ‘SmallMGC_Api_Gateway’ was not declared in this scope
+smallmgcapi_wrap.cxx:7186: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7186: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7186: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7200: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7200: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7200: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7200: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7200: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7205: error: expected type-specifier before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:7205: error: expected ‘>’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:7205: error: expected ‘(’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:7205: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7205: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_removeGateway(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7216: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7216: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7216: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7216: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7217: error: ‘SmallMGC_Api_Gateway’ was not declared in this scope
+smallmgcapi_wrap.cxx:7217: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7217: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7217: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7231: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7231: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7231: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7231: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7231: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7236: error: expected type-specifier before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:7236: error: expected ‘>’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:7236: error: expected ‘(’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:7236: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7236: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_blockGateway(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7247: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7247: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7247: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7247: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7248: error: ‘SmallMGC_Api_Gateway’ was not declared in this scope
+smallmgcapi_wrap.cxx:7248: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7248: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7248: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7262: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7262: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7262: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7262: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7262: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7267: error: expected type-specifier before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:7267: error: expected ‘>’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:7267: error: expected ‘(’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:7267: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7267: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_addSubscriber(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7278: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7278: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7278: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7278: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7279: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:7279: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7279: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7279: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7293: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7293: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7293: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7293: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7293: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7298: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7298: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7298: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7298: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7298: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_removeSubscriber(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7309: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7309: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7309: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7309: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7310: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:7310: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7310: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7310: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7324: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7324: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7324: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7324: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7324: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7329: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7329: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7329: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7329: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7329: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_blockSubscriber(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7340: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7340: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7340: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7340: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7341: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:7341: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7341: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7341: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7355: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7355: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7355: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7355: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7355: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7360: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7360: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7360: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7360: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7360: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_unblockSubscriber(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7371: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7371: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7371: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7371: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7372: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:7372: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7372: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7372: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7386: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7386: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7386: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7386: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7386: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7391: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7391: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7391: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7391: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7391: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_shutdownSubscriber(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7402: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7402: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7402: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7402: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7403: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:7403: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7403: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7403: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7417: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7417: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7417: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7417: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7417: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7422: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7422: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7422: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7422: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7422: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_getSubscriberStatus(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7433: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7433: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7433: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7433: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7434: error: ‘SmallMGC_Api_Subscriber’ was not declared in this scope
+smallmgcapi_wrap.cxx:7434: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7434: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7434: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7441: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:7441: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:7448: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7448: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7448: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7448: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7448: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7453: error: expected type-specifier before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7453: error: expected ‘>’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7453: error: expected ‘(’ before ‘SmallMGC_Api_Subscriber’
+smallmgcapi_wrap.cxx:7453: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7453: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7454: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_setSubscriberStatus(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7464: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7464: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7464: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7464: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7465: error: ‘SmallMGC_Api_SubscriberStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:7465: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7465: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7465: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7479: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7479: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7479: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7479: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7479: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7484: error: expected type-specifier before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7484: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7484: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberStatus’
+smallmgcapi_wrap.cxx:7484: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7484: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_setGatewayStatus(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7495: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7495: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7495: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7495: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7496: error: ‘SmallMGC_Api_GatewayStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:7496: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7496: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7496: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7510: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7510: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7510: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7510: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7510: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7515: error: expected type-specifier before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:7515: error: expected ‘>’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:7515: error: expected ‘(’ before ‘SmallMGC_Api_GatewayStatus’
+smallmgcapi_wrap.cxx:7515: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7515: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_getGatewayStatus(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7526: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7526: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7526: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7526: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7527: error: ‘SmallMGC_Api_Gateway’ was not declared in this scope
+smallmgcapi_wrap.cxx:7527: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7527: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7527: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7534: error: ‘SmallMGC_Api_GatewayStatus’ was not declared in this scope
+smallmgcapi_wrap.cxx:7534: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:7541: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7541: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7541: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7541: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7541: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7546: error: expected type-specifier before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:7546: error: expected ‘>’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:7546: error: expected ‘(’ before ‘SmallMGC_Api_Gateway’
+smallmgcapi_wrap.cxx:7546: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7546: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7547: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_subscriberAlarmSet(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7557: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7557: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7557: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7557: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7558: error: ‘SmallMGC_Api_SubscriberAlarms’ was not declared in this scope
+smallmgcapi_wrap.cxx:7558: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7558: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7558: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7572: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7572: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7572: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7572: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7572: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7577: error: expected type-specifier before ‘SmallMGC_Api_SubscriberAlarms’
+smallmgcapi_wrap.cxx:7577: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberAlarms’
+smallmgcapi_wrap.cxx:7577: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberAlarms’
+smallmgcapi_wrap.cxx:7577: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7577: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_subscriberAlarmClear(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7588: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7588: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7588: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7588: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7589: error: ‘SmallMGC_Api_SubscriberAlarms’ was not declared in this scope
+smallmgcapi_wrap.cxx:7589: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7589: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7589: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7603: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7603: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7603: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7603: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7603: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7608: error: expected type-specifier before ‘SmallMGC_Api_SubscriberAlarms’
+smallmgcapi_wrap.cxx:7608: error: expected ‘>’ before ‘SmallMGC_Api_SubscriberAlarms’
+smallmgcapi_wrap.cxx:7608: error: expected ‘(’ before ‘SmallMGC_Api_SubscriberAlarms’
+smallmgcapi_wrap.cxx:7608: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7608: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_gatewayAlarmSet(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7619: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7619: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7619: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7619: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7620: error: ‘SmallMGC_Api_GatewayAlarms’ was not declared in this scope
+smallmgcapi_wrap.cxx:7620: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7620: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7620: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7634: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7634: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7634: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7634: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7634: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7639: error: expected type-specifier before ‘SmallMGC_Api_GatewayAlarms’
+smallmgcapi_wrap.cxx:7639: error: expected ‘>’ before ‘SmallMGC_Api_GatewayAlarms’
+smallmgcapi_wrap.cxx:7639: error: expected ‘(’ before ‘SmallMGC_Api_GatewayAlarms’
+smallmgcapi_wrap.cxx:7639: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7639: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_gatewayAlarmClear(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7650: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7650: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7650: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7650: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7651: error: ‘SmallMGC_Api_GatewayAlarms’ was not declared in this scope
+smallmgcapi_wrap.cxx:7651: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7651: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7651: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7665: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7665: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7665: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7665: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7665: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7670: error: expected type-specifier before ‘SmallMGC_Api_GatewayAlarms’
+smallmgcapi_wrap.cxx:7670: error: expected ‘>’ before ‘SmallMGC_Api_GatewayAlarms’
+smallmgcapi_wrap.cxx:7670: error: expected ‘(’ before ‘SmallMGC_Api_GatewayAlarms’
+smallmgcapi_wrap.cxx:7670: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7670: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_delete_SmallMGC_Api(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7681: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7681: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7681: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7681: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7691: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7691: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7691: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7691: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7691: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7692: error: type ‘<type error>’ argument given to ‘delete’, expected pointer
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_setConfigSA(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7702: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7702: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7702: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7702: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7703: error: ‘SmallMGC_Api_ConfigSA’ was not declared in this scope
+smallmgcapi_wrap.cxx:7703: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7703: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7703: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7717: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7717: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7717: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7717: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7717: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7722: error: expected type-specifier before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:7722: error: expected ‘>’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:7722: error: expected ‘(’ before ‘SmallMGC_Api_ConfigSA’
+smallmgcapi_wrap.cxx:7722: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7722: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_setConfigDigitmap(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7733: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7733: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7733: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7733: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7734: error: ‘SmallMGC_Api_ConfigDigitmap’ was not declared in this scope
+smallmgcapi_wrap.cxx:7734: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7734: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7734: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7748: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7748: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7748: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7748: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7748: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7753: error: expected type-specifier before ‘SmallMGC_Api_ConfigDigitmap’
+smallmgcapi_wrap.cxx:7753: error: expected ‘>’ before ‘SmallMGC_Api_ConfigDigitmap’
+smallmgcapi_wrap.cxx:7753: error: expected ‘(’ before ‘SmallMGC_Api_ConfigDigitmap’
+smallmgcapi_wrap.cxx:7753: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7753: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_setConfigGeneral(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7764: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7764: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7764: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7764: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7765: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:7765: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7765: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7765: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7779: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7779: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7779: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7779: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7779: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7784: error: expected type-specifier before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:7784: error: expected ‘>’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:7784: error: expected ‘(’ before ‘SmallMGC_Api_ConfigGeneral’
+smallmgcapi_wrap.cxx:7784: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7784: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_setConfigIp(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7795: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7795: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7795: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7795: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7796: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:7796: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:7796: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7796: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7810: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7810: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7810: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7810: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7810: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7815: error: expected type-specifier before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:7815: error: expected ‘>’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:7815: error: expected ‘(’ before ‘SmallMGC_Api_ConfigIp’
+smallmgcapi_wrap.cxx:7815: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7815: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_getConfigSA(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7826: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7826: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7826: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7826: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7830: error: ‘SmallMGC_Api_ConfigSA’ was not declared in this scope
+smallmgcapi_wrap.cxx:7830: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:7837: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7837: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7837: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7837: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7837: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7838: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_getConfigDigitmap(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7848: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7848: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7848: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7848: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7852: error: ‘SmallMGC_Api_ConfigDigitmap’ was not declared in this scope
+smallmgcapi_wrap.cxx:7852: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:7859: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7859: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7859: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7859: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7859: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7860: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_getConfigGeneral(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7870: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7870: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7870: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7870: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7874: error: ‘SmallMGC_Api_ConfigGeneral’ was not declared in this scope
+smallmgcapi_wrap.cxx:7874: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:7881: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7881: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7881: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7881: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7881: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7882: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_getConfigIp(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7892: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7892: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7892: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7892: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7896: error: ‘SmallMGC_Api_ConfigIp’ was not declared in this scope
+smallmgcapi_wrap.cxx:7896: error: ‘result’ was not declared in this scope
+smallmgcapi_wrap.cxx:7903: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7903: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7903: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7903: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7903: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:7904: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_startTest(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7914: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7914: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7914: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7914: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7930: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7930: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7930: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7930: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7930: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_stopTest(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7948: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7948: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7948: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7948: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7964: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7964: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7964: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7964: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7964: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_getTestResult(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:7982: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:7982: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:7982: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:7982: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:7993: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7993: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7993: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:7993: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:7993: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_sendRawMessage(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:8004: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:8004: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:8004: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:8004: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:8025: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:8025: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:8025: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:8025: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:8025: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘PyObject* _wrap_SmallMGC_Api_getReceivedMessage(PyObject*, PyObject*)’:
+smallmgcapi_wrap.cxx:8050: error: ‘SmallMGC_Api’ was not declared in this scope
+smallmgcapi_wrap.cxx:8050: error: ‘arg1’ was not declared in this scope
+smallmgcapi_wrap.cxx:8050: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:8050: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:8051: error: ‘SmallMGC_Api_Commands’ was not declared in this scope
+smallmgcapi_wrap.cxx:8051: error: ‘arg2’ was not declared in this scope
+smallmgcapi_wrap.cxx:8051: error: expected primary-expression before ‘)’ token
+smallmgcapi_wrap.cxx:8051: error: expected ‘;’ before numeric constant
+smallmgcapi_wrap.cxx:8097: error: expected type-specifier before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:8097: error: expected ‘>’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:8097: error: expected ‘(’ before ‘SmallMGC_Api’
+smallmgcapi_wrap.cxx:8097: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:8097: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx:8102: error: expected type-specifier before ‘SmallMGC_Api_Commands’
+smallmgcapi_wrap.cxx:8102: error: expected ‘>’ before ‘SmallMGC_Api_Commands’
+smallmgcapi_wrap.cxx:8102: error: expected ‘(’ before ‘SmallMGC_Api_Commands’
+smallmgcapi_wrap.cxx:8102: error: expected primary-expression before ‘>’ token
+smallmgcapi_wrap.cxx:8102: error: expected ‘)’ before ‘;’ token
+smallmgcapi_wrap.cxx: In function ‘void init_smallmgcapi()’:
+smallmgcapi_wrap.cxx:9044: error: ‘SmallMGC_API_COMMAND_CONFIG_SMALLMGC_IP’ was not declared in this scope
+smallmgcapi_wrap.cxx:9045: error: ‘SmallMGC_API_COMMAND_CONFIG_SMALLMGC_GENERAL’ was not declared in this scope
+smallmgcapi_wrap.cxx:9046: error: ‘SmallMGC_API_COMMAND_CONFIG_SMALLMGC_DIGITMAP’ was not declared in this scope
+smallmgcapi_wrap.cxx:9047: error: ‘SmallMGC_API_COMMAND_CONFIG_SMALLMGC_SA’ was not declared in this scope
+smallmgcapi_wrap.cxx:9048: error: ‘SmallMGC_API_COMMAND_CONFIG_GATEWAY_IP’ was not declared in this scope
+smallmgcapi_wrap.cxx:9049: error: ‘SmallMGC_API_COMMAND_CONFIG_GATEWAY_GENERAL’ was not declared in this scope
+smallmgcapi_wrap.cxx:9050: error: ‘SmallMGC_API_COMMAND_CONFIG_ADD_GATEWAY’ was not declared in this scope
+smallmgcapi_wrap.cxx:9051: error: ‘SmallMGC_API_COMMAND_CONFIG_REMOVE_GATEWAY’ was not declared in this scope
+smallmgcapi_wrap.cxx:9052: error: ‘SmallMGC_API_COMMAND_CONFIG_BLOCK_GATEWAY’ was not declared in this scope
+smallmgcapi_wrap.cxx:9053: error: ‘SmallMGC_API_COMMAND_CONFIG_SUBSCRIBER_GENERAL’ was not declared in this scope
+smallmgcapi_wrap.cxx:9054: error: ‘SmallMGC_API_COMMAND_CONFIG_ADD_SUBSCRIBER’ was not declared in this scope
+smallmgcapi_wrap.cxx:9055: error: ‘SmallMGC_API_COMMAND_CONFIG_REMOVE_SUBSCRIBER’ was not declared in this scope
+smallmgcapi_wrap.cxx:9056: error: ‘SmallMGC_API_COMMAND_STATUS_SMALLMGC’ was not declared in this scope
+smallmgcapi_wrap.cxx:9057: error: ‘SmallMGC_API_COMMAND_STATUS_GATEWAY’ was not declared in this scope
+smallmgcapi_wrap.cxx:9058: error: ‘SmallMGC_API_COMMAND_STATUS_SUBSCRIBER’ was not declared in this scope
+smallmgcapi_wrap.cxx:9059: error: ‘SmallMGC_API_COMMAND_STATUS_SUBSCRIBER_INSERVICE’ was not declared in this scope
+smallmgcapi_wrap.cxx:9060: error: ‘SmallMGC_API_COMMAND_STATUS_SUBSCRIBER_OUTSERVICE_FORCED’ was not declared in this scope
+smallmgcapi_wrap.cxx:9061: error: ‘SmallMGC_API_COMMAND_STATUS_SUBSCRIBER_OUTSERVICE’ was not declared in this scope
+smallmgcapi_wrap.cxx:9062: error: ‘SmallMGC_API_AlARM_SMALLMGC’ was not declared in this scope
+smallmgcapi_wrap.cxx:9063: error: ‘SmallMGC_API_AlARM_GATEWAY’ was not declared in this scope
+smallmgcapi_wrap.cxx:9064: error: ‘SmallMGC_API_AlARM_SUBSCRIBER’ was not declared in this scope
+smallmgcapi_wrap.cxx:9065: error: ‘SmallMGC_API_TEST_START’ was not declared in this scope
+smallmgcapi_wrap.cxx:9066: error: ‘SmallMGC_API_TEST_STOP’ was not declared in this scope
+smallmgcapi_wrap.cxx:9067: error: ‘SmallMGC_API_TEST_RESULT’ was not declared in this scope
+smallmgcapi_wrap.cxx:9068: error: ‘SmallMGC_API_SEND_RAW’ was not declared in this scope
+smallmgcapi_wrap.cxx:9069: error: ‘SmallMGC_API_RECEIVED_NOTIFY’ was not declared in this scope
+smallmgcapi_wrap.cxx:9070: error: ‘SmallMGC_API_RECEIVED_MODIFY’ was not declared in this scope
+smallmgcapi_wrap.cxx:9071: error: ‘SmallMGC_API_RECEIVED_ADD’ was not declared in this scope
+smallmgcapi_wrap.cxx:9072: error: ‘SmallMGC_API_RECEIVED_SUBTRACT’ was not declared in this scope
+smallmgcapi_wrap.cxx:9073: error: ‘SmallMGC_API_RECEIVED_MOVE’ was not declared in this scope
+smallmgcapi_wrap.cxx:9074: error: ‘SmallMGC_API_RECEIVED_AUDITVALUE’ was not declared in this scope
+smallmgcapi_wrap.cxx:9075: error: ‘SmallMGC_API_RECEIVED_SERVICECHANGE’ was not declared in this scope
+smallmgcapi_wrap.cxx:9076: error: ‘SmallMGC_API_RECEIVED_PENDING’ was not declared in this scope
+smallmgcapi_wrap.cxx:9077: error: ‘SmallMGC_API_RECEIVED_ERROR’ was not declared in this scope
+smallmgcapi_wrap.cxx:9078: error: ‘SmallMGC_SUBSCRIBER_ALARM_BLOCKED’ was not declared in this scope
+smallmgcapi_wrap.cxx:9079: error: ‘SmallMGC_SUBSCRIBER_ALARM_UNDEFINED’ was not declared in this scope
+smallmgcapi_wrap.cxx:9080: error: ‘SmallMGC_GATEWAY_ALARM_H248Association’ was not declared in this scope
+smallmgcapi_wrap.cxx:9081: error: ‘SmallMGC_GATEWAY_ALARM_IUAAssociation’ was not declared in this scope
+smallmgcapi_wrap.cxx:9082: error: ‘SmallMGC_GATEWAY_ALARM_UNDEFINED’ was not declared in this scope
+smallmgcapi_wrap.cxx:9083: error: ‘SmallMGC_SUBSCRIBER_PSTN’ was not declared in this scope
+smallmgcapi_wrap.cxx:9084: error: ‘SmallMGC_SUBSCRIBER_ISDNBA’ was not declared in this scope
+smallmgcapi_wrap.cxx:9085: error: ‘SmallMGC_SUBSCRIBER_ISDNPRA’ was not declared in this scope
+smallmgcapi_wrap.cxx:9086: error: ‘SmallMGC_SUBSCRIBER_SIP’ was not declared in this scope
+smallmgcapi_wrap.cxx:9087: error: ‘SmallMGC_SUBSCRIBER_UNDEFINED’ was not declared in this scope
+smallmgcapi_wrap.cxx:9088: error: ‘SmallMGC_GATEWAY_STATUS_REGISTERED’ was not declared in this scope
+smallmgcapi_wrap.cxx:9089: error: ‘SmallMGC_GATEWAY_STATUS_UP’ was not declared in this scope
+smallmgcapi_wrap.cxx:9090: error: ‘SmallMGC_GATEWAY_STATUS_DOWN’ was not declared in this scope
+smallmgcapi_wrap.cxx:9091: error: ‘SmallMGC_GATEWAY_STATUS_LOST’ was not declared in this scope
+smallmgcapi_wrap.cxx:9092: error: ‘SmallMGC_GATEWAY_STATUS_UNDEFINED’ was not declared in this scope
+smallmgcapi_wrap.cxx:9093: error: ‘SmallMGC_GATEWAY_STATUS_IUA_REGISTERED’ was not declared in this scope
+smallmgcapi_wrap.cxx:9094: error: ‘SmallMGC_GATEWAY_STATUS_IUA_UP’ was not declared in this scope
+smallmgcapi_wrap.cxx:9095: error: ‘SmallMGC_GATEWAY_STATUS_IUA_DOWN’ was not declared in this scope
+smallmgcapi_wrap.cxx:9096: error: ‘SmallMGC_GATEWAY_STATUS_IUA_LOST’ was not declared in this scope
+smallmgcapi_wrap.cxx:9097: error: ‘SmallMGC_GATEWAY_STATUS_IUA_UNDEFINED’ was not declared in this scope
+smallmgcapi_wrap.cxx:9098: error: ‘SmallMGC_SUBSCRIBER_STATUS_REGISTERED’ was not declared in this scope
+smallmgcapi_wrap.cxx:9099: error: ‘SmallMGC_SUBSCRIBER_STATUS_UP’ was not declared in this scope
+smallmgcapi_wrap.cxx:9100: error: ‘SmallMGC_SUBSCRIBER_STATUS_DOWN’ was not declared in this scope
+smallmgcapi_wrap.cxx:9101: error: ‘SmallMGC_SUBSCRIBER_STATUS_SHUTTINGDOWN’ was not declared in this scope
+smallmgcapi_wrap.cxx:9102: error: ‘SmallMGC_SUBSCRIBER_STATUS_UNDEFINED’ was not declared in this scope
